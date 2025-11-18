@@ -1,9 +1,3 @@
-Perfect. Below is a **FULL, FINAL, POLISHED GitHub README.md**, including **your actual IPs**, **your actual PrivateLink DNS**, **architecture diagrams**, **folder structure**, **testing steps**, **commands**, **tables**, and a professional narrative.
-
-👉 **You can copy–paste this entire file into your GitHub repo as `README.md`.**
-
----
-
 # 🛡️ **AWS PrivateLink (VPC Endpoint Service) — Cross-VPC Private Service Sharing**
 
 This repository documents the implementation of **AWS PrivateLink** (VPC Endpoint Service) to securely expose an application running inside a **Service Provider VPC** to a **Service Consumer VPC**, *without using the public internet, VPC peering, or a VPN*.
